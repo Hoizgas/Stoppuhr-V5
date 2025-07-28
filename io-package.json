@@ -1,0 +1,14 @@
+{
+  "common": {
+    "name": "stoppuhr",
+    "version": "1.0.0",
+    "title": "Stoppuhr Adapter",
+    "platform": "Javascript/Node.js",
+    "mode": "daemon",
+    "authors": [
+      "Dein Name <dein@email.com>"
+    ]
+  },
+  "native": {},
+  "objects": []
+}

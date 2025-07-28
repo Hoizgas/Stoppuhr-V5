@@ -1,0 +1,14 @@
+{
+  "name": "iobroker.stoppuhr",
+  "version": "1.0.0",
+  "description": "Adapter für ESP32-Stoppuhr",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Dein Name",
+  "license": "MIT",
+  "dependencies": {
+    "@iobroker/adapter-core": "^3.0.0"
+  }
+}
